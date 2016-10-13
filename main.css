@@ -4,6 +4,10 @@
 	text-align: center;
 }
 
+#container img{
+	float:left;
+}
+
 #smmry{
 	text-align: center;
 	width: 75%;
