@@ -1,8 +1,9 @@
 #container{
+	margin-top:20px;
 	margin-left:auto;
 	margin-right:auto;
 	text-align: center;
-	background-color: #0022cc;
+	background-color: #002233;
 }
 
 #container img{
